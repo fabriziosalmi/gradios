@@ -60,21 +60,10 @@ This will open the Gradio web interface in your browser — enter your API key, 
 - Gradio
 - OpenAI Python Client
 
-### 🌟 Future Plans
-
-Stay tuned! More scripts are coming soon, including:
-- **Data Visualizer**: Interactive tools for visualizing complex datasets.
-- **Text Analyzers**: Tools to analyze, summarize, and manipulate text.
-- **AI-Assisted Content Creators**: Generate creative content with AI.
-
-### 🤝 Contributing
-
-We welcome contributions! Whether it's a new script idea, bug fixes, or improvements, feel free to open an issue or a pull request. Let's build something amazing together! 🚀
-
 ### 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### 🙏 Acknowledgments
 
-Special thanks to [OpenAI](https://openai.com) for their cutting-edge AI models and [Gradio](https://gradio.app) for simplifying the creation of web interfaces.
+
+
